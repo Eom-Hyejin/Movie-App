@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/moive_app/static/css/main.d437e055.chunk.css",
+    "main.js": "/moive_app/static/js/main.d302fa3f.chunk.js",
+    "main.js.map": "/moive_app/static/js/main.d302fa3f.chunk.js.map",
+    "runtime-main.js": "/moive_app/static/js/runtime-main.5722a727.js",
+    "runtime-main.js.map": "/moive_app/static/js/runtime-main.5722a727.js.map",
+    "static/js/2.cc16e8eb.chunk.js": "/moive_app/static/js/2.cc16e8eb.chunk.js",
+    "static/js/2.cc16e8eb.chunk.js.map": "/moive_app/static/js/2.cc16e8eb.chunk.js.map",
+    "index.html": "/moive_app/index.html",
+    "static/css/main.d437e055.chunk.css.map": "/moive_app/static/css/main.d437e055.chunk.css.map",
+    "static/js/2.cc16e8eb.chunk.js.LICENSE.txt": "/moive_app/static/js/2.cc16e8eb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5722a727.js",
+    "static/js/2.cc16e8eb.chunk.js",
+    "static/css/main.d437e055.chunk.css",
+    "static/js/main.d302fa3f.chunk.js"
+  ]
+}
